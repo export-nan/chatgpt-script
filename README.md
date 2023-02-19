@@ -28,7 +28,7 @@ $ sudo npm run install
 ```shell
 $ chatgpt
 ```
-![chatgpt]('./docs/chatgpt.png')
+![chatgpt](docs/chatgpt.png)
 
 ## 卸载
 ```shell
