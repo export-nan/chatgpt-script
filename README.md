@@ -13,7 +13,7 @@
 ```
 
 ## apiKey 获取方式：
-先登陆你的OPENAI账号（你可能需要翻墙，大陆和香港是没有开放的）
+先登陆你的OPENAI账号（你可能需要翻墙，大陆和香港是没有开放的）  
 然后访问这个地址[https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys)获取apiKey  
 申请的apikey是一次性显示的，请妥善保存，
 
