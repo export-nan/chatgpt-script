@@ -13,16 +13,16 @@
 ```
 
 ## apiKey 获取方式：
-先登陆你的OPENAI账号（你可能需要翻墙，大陆和香港是没有开放的）  
+先登陆你的OPENAI账号（你可能需要翻墙，大陆和香港是没有开放的）
 然后访问这个地址[https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys)获取apiKey  
 申请的apikey是一次性显示的，请妥善保存，
 
 ## 快速安装
 在当前目录下运行
 ```shell
-$ npm run install
+$ npm run chatgpt
 // 如果报错可能是权限不足
-$ sudo npm run install
+$ sudo npm run chatgpt
 ```
 启动
 ```shell
